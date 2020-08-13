@@ -1,0 +1,9 @@
+/.gradle/
+/build/
+/.settings/
+/.classpath
+/.project
+.idea/jarRepositories.xml
+.idea/misc.xml
+.idea/uiDesigner.xml
+.idea/vcs.xml
